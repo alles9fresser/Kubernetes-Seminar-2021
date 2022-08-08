@@ -1,2 +1,3 @@
 Taught intro to K8S in 2021 MLOPS tutorial seminar.
-Infra stack: Docker, K8s, Kafka, Web stack: React, Node, Mongodb, Redis
+Infra stack: Docker, K8s, Kafka, RabbitMQ 
+Web stack: Typescript, webpack, React, Node, Mongodb, Redis
